@@ -4,6 +4,8 @@
 #### CSE110 - Software Engineering
 ##### Fall 2022
 
+![My picture](images/headshot.jpg)
+
 > No thoughts. Head empty. Just vibes
 
 ##### Table of Contents  
