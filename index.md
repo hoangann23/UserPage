@@ -20,7 +20,7 @@
 [LinkedIn](https://www.linkedin.com/in/ann-luong-598962228)
 
 ###### Other
-[My To-Do List](docs\to-do.md)
+[My To-Do List](docs/to-do.md)
 
 
 
