@@ -21,7 +21,7 @@
 [LinkedIn](https://www.linkedin.com/in/ann-luong-598962228)
 
 ###### Other
-[My Bucket List](docs/bucket-list.md)
+[My Bucket List](docs/bucket-list.md)  
 [My To-Do List](docs/to-do.md)
 
 
