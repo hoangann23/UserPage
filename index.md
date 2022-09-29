@@ -6,7 +6,7 @@
 
 > No thoughts. Head empty. Just vibes
 
-###### Table of Contents
+##### Table of Contents
 [About me](https://hoangann23.github.io/UserPage/#about-me)  
 [My Links](https://hoangann23.github.io/UserPage/#my-links)
 
@@ -16,8 +16,8 @@
 `print('Hello world!')`
 
 ###### My Links
-[GitHub](https://github.com/hoangann23)
-
+[GitHub](https://github.com/hoangann23)  
 [LinkedIn](https://www.linkedin.com/in/ann-luong-598962228)
+
 
 
