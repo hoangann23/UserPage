@@ -1,5 +1,5 @@
 # Things I want to do before I die
-
+![travel](../images/travel.jpg)
 1. Graduate
 2. Travel the world
 3. Hang glide
