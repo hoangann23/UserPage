@@ -15,6 +15,6 @@
 ###### My Links
 [GitHub](https://github.com/hoangann23)
 
-[LinkedIn](www.linkedin.com/in/ann-luong-598962228)
+[LinkedIn](https://www.linkedin.com/in/ann-luong-598962228)
 
 
