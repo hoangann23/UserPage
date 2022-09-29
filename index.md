@@ -22,7 +22,7 @@
 
 ###### Other
 [My Bucket List](docs/bucket-list.md)  
-[My Classes](docs/classes.md)
+[My Classes](docs/classes.md)  
 [My To-Do List](docs/to-do.md)
 
 
