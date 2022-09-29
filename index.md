@@ -4,7 +4,7 @@
 #### CSE110 - Software Engineering
 ##### Fall 2022
 
-<img src="images/headshot.jpg" alt="My picture" width="150" height="100"/> 
+![My picture](images/headshot.jpg)
 
 > No thoughts. Head empty. Just vibes
 
