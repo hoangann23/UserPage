@@ -1,5 +1,5 @@
 # Courses I've taken at UCSD
-![UCSD logo](../images/ucsd_logo.png)
+
 #### Fall 2022
 - CSE110 - Software Engineering
 - CSE158R - Recommender Systems and Web Mining
