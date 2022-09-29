@@ -6,18 +6,21 @@
 
 > No thoughts. Head empty. Just vibes
 
-##### Table of Contents
+##### Table of Contents  
 [About me](https://hoangann23.github.io/UserPage/#about-me)  
 [My Links](https://hoangann23.github.io/UserPage/#my-links)
 
-###### About me
+###### About me  
 *Hello!* I am a current senior at **UC San Diego** studying Computer Science. I started coding in high school and haven't stopped since. I originally attended CSULB for the first two years of my college career and now I'm a second year transfer at UCSD. I'm **_extremely_ excited** <sub>~~but also pretty nervous~~</sub> to be attending this school. ***Go Tritons!***
 
 `print('Hello world!')`
 
-###### My Links
+###### My Links  
 [GitHub](https://github.com/hoangann23)  
 [LinkedIn](https://www.linkedin.com/in/ann-luong-598962228)
+
+###### Other
+[My To-Do List](docs\to-do.md)
 
 
 
